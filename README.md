@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Travel Agency Website Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Alt text](/public/images/readme-img.png)
+![Alt text](/public/images/readme-img2.png)
 
 ## Available Scripts
 
